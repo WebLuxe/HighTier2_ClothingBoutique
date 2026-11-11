@@ -2,6 +2,7 @@
 window.SITE_DATA = {
   "announcements": [
     "Example shop: all pieces, prices and photos are samples",
+    "Festive offers on selected pieces this month",
     "Bridal & Non-Bridal Specialist • Men's Ethnic Wear • Party Wear",
     "Now open: our new boutique in Grand Baie",
     "Questions? Message us on WhatsApp"
@@ -32,7 +33,8 @@ window.SITE_DATA = {
       "price": 24500,
       "img": "1740674570259-a47d713a2976",
       "hover": "1677691257363-eebd2abeafec",
-      "tag": ""
+      "tag": "",
+      "was": 28900
     },
     {
       "id": 4,
@@ -41,7 +43,8 @@ window.SITE_DATA = {
       "price": 16900,
       "img": "1677691257363-eebd2abeafec",
       "hover": "1707576618343-26a1b377ca7a",
-      "tag": ""
+      "tag": "",
+      "was": 19900
     },
     {
       "id": 5,
@@ -104,7 +107,8 @@ window.SITE_DATA = {
       "price": 4500,
       "img": "1617039487629-6babdcb2a24b",
       "hover": "1733937140732-2cc70a1d7017",
-      "tag": ""
+      "tag": "",
+      "was": 5600
     },
     {
       "id": 12,
@@ -113,7 +117,8 @@ window.SITE_DATA = {
       "price": 3900,
       "img": "1746372283841-dbb3838f9935",
       "hover": "1668371459824-094a960a227d",
-      "tag": ""
+      "tag": "",
+      "was": 4900
     },
     {
       "id": 13,
@@ -149,7 +154,8 @@ window.SITE_DATA = {
       "price": 3900,
       "img": "1679006831648-7c9ea12e5807",
       "hover": "1727430228383-aa1fb59db8bf",
-      "tag": ""
+      "tag": "",
+      "was": 4900
     },
     {
       "id": 17,
@@ -167,7 +173,8 @@ window.SITE_DATA = {
       "price": 2900,
       "img": "1617627143750-d86bc21e42bb",
       "hover": "1769275061202-cf3ef67d7279",
-      "tag": ""
+      "tag": "",
+      "was": 3600
     },
     {
       "id": 19,
@@ -221,7 +228,8 @@ window.SITE_DATA = {
       "price": 4200,
       "img": "1610202305255-746aa5b971c4",
       "hover": "1638457130899-121a2dc59513",
-      "tag": ""
+      "tag": "",
+      "was": 5200
     },
     {
       "id": 25,
@@ -239,7 +247,8 @@ window.SITE_DATA = {
       "price": 3500,
       "img": "1616583936499-d4116e7e2e76",
       "hover": "1678536517273-f1ec164966ea",
-      "tag": ""
+      "tag": "",
+      "was": 4400
     },
     {
       "id": 27,
@@ -311,7 +320,8 @@ window.SITE_DATA = {
       "price": 9900,
       "img": "1534217466718-ef4950786e24",
       "hover": "1729347917808-e3e35a462fec",
-      "tag": ""
+      "tag": "",
+      "was": 12500
     },
     {
       "id": 35,
@@ -356,7 +366,8 @@ window.SITE_DATA = {
       "price": 2200,
       "img": "1711044871601-301f9b0ecf91",
       "hover": "1744551358303-46edae8b374b",
-      "tag": ""
+      "tag": "",
+      "was": 2800
     },
     {
       "id": 40,

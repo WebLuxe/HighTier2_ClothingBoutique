@@ -8,7 +8,9 @@ All pieces, prices, photos, names and addresses are examples. In demo mode the W
 ## What it has
 - Opening curtain with a mandala and gold dust (short version on repeat visits)
 - Silk-pleat curtain when you move between sections, rising gold dust in the hero
-- Collection with categories, search, sort and quick view; wishlist and bag sent as one WhatsApp order
+- Lookbook: four complete looks for two, each added to the bag in one tap
+- Piece view: photo gallery with zoom, sizes, "complete the look" and a share link (`#piece-12` opens that piece)
+- Collection with categories, search, sort and offer prices (`"was"` in `data.js`); wishlist and bag sent as one WhatsApp order
 - Bride & Groom section, boutiques, booking form
 - `/admin`: owner panel (demo mode keeps changes in the visitor's browser)
 
